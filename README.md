@@ -1,4 +1,9 @@
 TreeCoin
 ========
 
-A decentralized, anonymous, encrypted ALT coin. It uses GPS and RFID info on Fruit and Nut Trees to generate a POW, POS to produce a food pegged inflationary coin.
+A decentralized, anonymous, encrypted ALT coin. 
+It uses a GPS polygon database and RFID treetags
+to generate a POW, POS to produce a futures food 
+commodity backed, hybrid and inflationary QR coded 
+gold coin.The ALt coin can be random periodical self 
+destructive.
